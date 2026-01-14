@@ -1,0 +1,4 @@
+fpdf2==2.7.6
+pandas==2.1.4
+pillow>=9.0.0
+reportlab>=4.0.0
